@@ -1,7 +1,7 @@
 # AUTOPROXY-GUI
 Automatic Change your ip location in the given time period Using GUI 
 
-OUR YOUTUBE LINK :https://www.youtube.com/channel/UCuafVcvdTEir2jaXW8hhaoQ
+
 
 <center><img src="screenshot/logo.jpg"></center>
 
@@ -9,7 +9,7 @@ OUR YOUTUBE LINK :https://www.youtube.com/channel/UCuafVcvdTEir2jaXW8hhaoQ
 #INSTALL
 
 
-1.  git clone https://github.com/blackhacker3/AUTOPROXY-GUI.git
+1.  git clone https://github.com/Mr-Cyb3rgh0st/auto-proxy
 2.  chmod +x AUTOPROXY-GUI
 3.  cd AUTOPROXY-GUI
 4.  sudo bash install.sh
